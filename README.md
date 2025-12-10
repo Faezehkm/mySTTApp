@@ -1,6 +1,9 @@
 You can Record your voice and then get your speech text!
+
 OR you have already a voice and you can Upload it and get your text.
-Maybe your security notice you a problem,it is happend because program needs to be available to your Microphone. So Don't scare.. you can see code and make it to exe file if you want to do it yourself! 
+
+Maybe your security notice you a problem,it is happend because program needs to be available to your Microphone.
+So Don't scare.. you can see code and make it to exe file if you want to do it yourself! 
 
 Save text, delete it or Copying it and Ask AI about a problem you have!
 
