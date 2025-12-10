@@ -209,5 +209,4 @@ copy_label = Label(window, text="", font=("B Nazanin", 11),
                   bg="#f5f5f5", fg="green")
 copy_label.pack(pady=5)
 
-
 window.mainloop()
