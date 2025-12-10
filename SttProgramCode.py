@@ -4,4 +4,3 @@ from tkinter import filedialog
 import threading
 import os
 import webbrowser
-import urllib
