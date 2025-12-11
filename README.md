@@ -1,18 +1,14 @@
-You can Record your voice and then get your speech text!
+You can record your voice and instantly convert your speech to text, or upload an existing audio file and get the transcription.
 
-OR you have already a voice and you can Upload it and get your text.
+If your security software shows a warning, it is only because the program needs access to your microphone.
+ 
+You can review the source code yourself and even convert it to an EXE file if you prefer to build it locally.
 
-Maybe your security notice you a problem,it is happend because program needs to be available to your Microphone.
-So Don't scare.. you can see code and make it to exe file if you want to do it yourself! 
+You can save, delete, or copy the generated text, and then ask the built‑in AI about any problem or question you have. 
+You can download the speech‑to‑text program from the Resources section.
 
-Save text, delete it or Copying it and Ask AI about a problem you have!
+This program is designed for Persian speakers all around the world.
 
-You can download my stt program from Resources File. 
+It is simple but useful for everyone.
 
-This program is built for Persian Language people from all over the World! 
-
-Simple but Useful for everyone!
-
-I hope you enjoy using it!
-
-I would be really happy to notice me if this program was useful for you!
+Hope you enjoy using it, and it would be great if you let me know whether this program was helpful for you!
